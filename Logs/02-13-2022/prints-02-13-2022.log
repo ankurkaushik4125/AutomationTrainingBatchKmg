@@ -1,0 +1,15 @@
+02-13-2022 06:49:48.932 [main] INFO  Report.log - Before navigating to: 'http://practice.automationtesting.in/'
+02-13-2022 06:50:02.973 [main] INFO  Report.log - Navigated to:'http://practice.automationtesting.in/'
+02-13-2022 06:50:03.493 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[2]
+02-13-2022 06:50:03.520 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[2]
+02-13-2022 06:50:03.530 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (277b02ccf65158c1db4e81dedd117f17)] -> xpath: //ul[@id='main-nav']//li[2]]
+02-13-2022 06:50:05.640 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (277b02ccf65158c1db4e81dedd117f17)] -> xpath: //ul[@id='main-nav']//li[2]]
+02-13-2022 06:50:05.646 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='username']
+02-13-2022 06:50:05.666 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='username']
+02-13-2022 06:50:05.784 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='password']
+02-13-2022 06:50:05.805 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='password']
+02-13-2022 06:50:05.895 [main] INFO  Report.log - Trying to find Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-13-2022 06:50:05.912 [main] INFO  Report.log - Found Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-13-2022 06:50:05.913 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (277b02ccf65158c1db4e81dedd117f17)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-13-2022 06:50:06.016 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (277b02ccf65158c1db4e81dedd117f17)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-13-2022 06:50:06.027 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]

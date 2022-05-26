@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Report.ExtentReportNG"/>
+<listener class-name="Report.Listners"/>
+
+
+</listeners>
+
+<test name="CheckoutPageTest">
+<groups>
+    <run>
+       <exclude name="booking_online"/>
+    </run>      
+</groups>
+<classes>  
+<class name="TestLayer.MainPgeTest">  
+</class>
+<class name="TestLayer.ShopTest">
+</class>
+<class name="TestLayer.ThinkingPageTest">
+
+</class>
+<class name="TestLayer.CheckoutPageTest">
+
+</class>
+
+
+</classes>
+
+</test>
+</suite>

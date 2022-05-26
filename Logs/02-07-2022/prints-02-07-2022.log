@@ -1,0 +1,489 @@
+02-07-2022 23:56:00.364 [main] INFO  Report.log - Before navigating to: 'http://practice.automationtesting.in/'
+02-07-2022 23:56:12.113 [main] INFO  Report.log - Navigated to:'http://practice.automationtesting.in/'
+02-07-2022 23:56:12.520 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[2]
+02-07-2022 23:56:12.546 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[2]
+02-07-2022 23:56:12.551 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[2]]
+02-07-2022 23:56:14.514 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[2]]
+02-07-2022 23:56:14.516 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='username']
+02-07-2022 23:56:14.537 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='username']
+02-07-2022 23:56:14.666 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='password']
+02-07-2022 23:56:14.684 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='password']
+02-07-2022 23:56:14.768 [main] INFO  Report.log - Trying to find Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:56:14.786 [main] INFO  Report.log - Found Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:56:14.786 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:56:16.272 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:56:16.285 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:56:16.304 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:56:16.304 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:56:19.462 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:56:19.476 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.526 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.527 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.548 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.549 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.567 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.568 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.584 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.616 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.633 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.634 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.662 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.693 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.710 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.711 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.726 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.749 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.763 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.763 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.778 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.797 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.811 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.812 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.827 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.846 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.858 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.858 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.870 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:19.888 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li[6]//a[1]//img
+02-07-2022 23:56:19.909 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li[6]//a[1]//img
+02-07-2022 23:56:19.910 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[6]//a[1]//img]
+02-07-2022 23:56:22.627 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[6]//a[1]//img]
+02-07-2022 23:56:22.628 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:22.641 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:22.688 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:22.713 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:22.774 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:22.788 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:22.847 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:56:22.870 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:56:22.870 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:56:24.353 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:56:24.353 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:56:24.385 [main] INFO  Report.log - Found Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:56:24.385 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:56:25.851 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:56:25.852 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:56:25.870 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:56:25.871 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:56:28.192 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:56:28.296 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:56:28.317 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:56:28.366 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:56:28.381 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:56:28.464 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:56:28.481 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:56:28.559 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:56:28.575 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:56:28.684 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:56:28.702 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:56:28.773 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:56:28.785 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:56:28.870 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:56:28.886 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:56:28.943 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:56:28.953 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:56:29.048 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:56:29.064 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:56:29.133 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:56:29.145 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:56:29.224 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:56:29.238 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:56:29.255 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:56:29.269 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:56:29.381 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:56:29.393 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:56:29.490 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:56:29.508 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:56:29.517 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:56:29.534 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:56:29.615 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:56:29.632 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:56:29.737 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:56:29.762 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:56:29.763 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:56:29.987 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:56:31.997 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:56:32.039 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:56:32.088 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:56:32.100 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:56:34.237 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:56:34.281 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:56:34.309 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:56:34.367 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:56:36.375 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:56:36.414 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:56:36.478 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:56:36.497 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:56:36.592 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.608 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.608 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.619 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.619 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.630 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.647 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.659 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.659 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.668 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:56:36.687 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:56:36.701 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:56:36.925 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:56:36.984 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:56:40.218 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:56:41.051 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:56:45.433 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:56:45.480 [main] INFO  Report.log - Found Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:56:45.480 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:56:47.566 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:56:47.569 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='username']
+02-07-2022 23:56:47.590 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='username']
+02-07-2022 23:56:47.706 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='password']
+02-07-2022 23:56:47.721 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='password']
+02-07-2022 23:56:47.816 [main] INFO  Report.log - Trying to find Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:56:47.831 [main] INFO  Report.log - Found Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:56:47.831 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:56:49.628 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:56:49.628 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:56:49.660 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:56:49.661 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:56:50.769 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:56:50.781 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.817 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.817 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.828 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.829 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.847 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.847 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.861 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.886 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.900 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.900 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.912 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:50.931 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li[2]//a[1]//img
+02-07-2022 23:56:50.947 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li[2]//a[1]//img
+02-07-2022 23:56:50.948 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[2]//a[1]//img]
+02-07-2022 23:56:53.376 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[2]//a[1]//img]
+02-07-2022 23:56:53.377 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:53.389 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:56:53.393 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:53.410 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:53.454 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:53.466 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:56:53.518 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:56:53.535 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:56:53.535 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:56:55.002 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:56:55.002 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:56:55.033 [main] INFO  Report.log - Found Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:56:55.033 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:56:57.539 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:56:57.539 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:56:57.556 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:56:57.557 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:56:59.758 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:56:59.866 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:56:59.893 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:56:59.947 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:56:59.959 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:57:00.050 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:57:00.070 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:57:00.132 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:57:00.143 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:57:00.235 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:57:00.255 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:57:00.317 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:57:00.330 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:57:00.395 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:57:00.409 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:57:00.458 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:57:00.473 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:57:00.573 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:57:00.591 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:57:00.657 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:57:00.667 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:57:00.740 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:00.757 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:00.766 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:00.782 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:00.861 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:00.881 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:00.994 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:01.010 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:01.018 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:01.033 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:01.096 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:01.109 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:01.221 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:57:01.241 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:57:01.242 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:57:01.393 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:57:03.395 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:03.410 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:03.455 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:03.470 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:05.551 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:57:05.569 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:57:05.586 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:57:05.640 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:57:07.648 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:57:07.682 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:57:07.735 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:57:07.749 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:57:07.827 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.844 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.845 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.855 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.855 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.866 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.884 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.893 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.894 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.906 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:07.924 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:57:07.941 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:57:08.089 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:57:08.108 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:57:11.290 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:57:11.559 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:57:15.756 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:57:15.799 [main] INFO  Report.log - Found Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:57:15.800 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:57:17.879 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:57:17.881 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='username']
+02-07-2022 23:57:17.905 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='username']
+02-07-2022 23:57:18.022 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='password']
+02-07-2022 23:57:18.037 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='password']
+02-07-2022 23:57:18.128 [main] INFO  Report.log - Trying to find Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:57:18.143 [main] INFO  Report.log - Found Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:57:18.144 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:57:19.935 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:57:19.937 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:57:19.967 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:57:19.967 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:57:21.043 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:57:21.052 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.080 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.081 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.098 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.099 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.109 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.109 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.123 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.146 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.162 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.162 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.171 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.188 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.197 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.198 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.208 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:21.224 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li[3]//a[1]//img
+02-07-2022 23:57:21.240 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li[3]//a[1]//img
+02-07-2022 23:57:21.240 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[3]//a[1]//img]
+02-07-2022 23:57:24.102 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[3]//a[1]//img]
+02-07-2022 23:57:24.103 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:24.115 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:24.119 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:57:24.135 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:57:24.177 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:57:24.189 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:57:24.238 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:57:24.256 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:57:24.256 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:57:25.507 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:57:25.507 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:57:25.525 [main] INFO  Report.log - Found Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:57:25.526 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:57:27.323 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:57:27.323 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:57:27.340 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:57:27.341 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:57:28.577 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:57:28.662 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:57:28.685 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:57:28.762 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:57:28.777 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:57:28.858 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:57:28.874 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:57:28.927 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:57:28.941 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:57:29.021 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:57:29.037 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:57:29.101 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:57:29.112 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:57:29.174 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:57:29.190 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:57:29.240 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:57:29.256 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:57:29.359 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:57:29.376 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:57:29.442 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:57:29.451 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:57:29.527 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:29.543 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:29.552 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:29.571 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:29.641 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:57:29.659 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:57:29.743 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:29.764 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:29.772 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:29.787 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:29.862 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:57:29.879 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:57:29.964 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:57:29.981 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:57:29.981 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:57:30.110 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:57:32.117 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:32.158 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:32.204 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:32.218 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:57:34.300 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:57:34.336 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:57:34.363 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:57:34.436 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:57:36.440 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:57:36.478 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:57:36.541 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:57:36.559 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:57:36.639 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.660 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.660 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.670 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.670 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.679 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.700 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.710 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.710 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.722 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.737 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.750 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.751 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.760 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:57:36.778 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li[3]//label
+02-07-2022 23:57:36.792 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li[3]//label
+02-07-2022 23:57:36.972 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:57:36.988 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:57:40.172 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:57:40.603 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:57:44.827 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:57:44.871 [main] INFO  Report.log - Found Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:57:44.872 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:57:47.085 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:57:47.091 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='username']
+02-07-2022 23:57:47.239 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='username']
+02-07-2022 23:57:47.361 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='password']
+02-07-2022 23:57:47.376 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='password']
+02-07-2022 23:57:47.465 [main] INFO  Report.log - Trying to find Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:57:47.482 [main] INFO  Report.log - Found Element By : By.xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]
+02-07-2022 23:57:47.482 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:57:48.959 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath:  //div[@id='customer_login']//div//form//p[3]//input[3]]
+02-07-2022 23:57:48.960 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:57:48.987 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:57:48.987 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:57:50.025 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:57:50.036 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.054 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.054 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.068 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.069 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.083 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.083 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.095 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:57:50.112 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li[1]//a[1]//img
+02-07-2022 23:57:50.131 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li[1]//a[1]//img
+02-07-2022 23:57:50.132 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[1]//a[1]//img]
+02-07-2022 23:57:52.352 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //*[@id='content']//ul//li[1]//a[1]//img]
+02-07-2022 23:57:52.352 [main] INFO  Report.log - Trying to find Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:58:02.392 [main] INFO  Report.log - Found Element By : By.xpath: //*[@id='content']//ul//li//a//h3
+02-07-2022 23:58:02.403 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:58:02.439 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:58:02.486 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:58:02.499 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='quantity']//input
+02-07-2022 23:58:02.562 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:58:02.577 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='content']//div//div[2]//form//button
+02-07-2022 23:58:02.577 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:58:04.441 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='content']//div//div[2]//form//button]
+02-07-2022 23:58:04.441 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:58:04.459 [main] INFO  Report.log - Found Element By : By.xpath: //a[@class='button wc-forward']
+02-07-2022 23:58:04.460 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:58:06.983 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[@class='button wc-forward']]
+02-07-2022 23:58:06.984 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:58:07.008 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='wc-proceed-to-checkout']//a
+02-07-2022 23:58:07.008 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:58:08.252 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='wc-proceed-to-checkout']//a]
+02-07-2022 23:58:08.357 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:58:08.383 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:58:08.439 [main] INFO  Report.log - Trying to find Element By : By.id: billing_first_name
+02-07-2022 23:58:08.454 [main] INFO  Report.log - Found Element By : By.id: billing_first_name
+02-07-2022 23:58:08.573 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:58:08.592 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:58:08.667 [main] INFO  Report.log - Trying to find Element By : By.id: billing_last_name
+02-07-2022 23:58:08.679 [main] INFO  Report.log - Found Element By : By.id: billing_last_name
+02-07-2022 23:58:08.759 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:58:08.775 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:58:08.830 [main] INFO  Report.log - Trying to find Element By : By.id: billing_company
+02-07-2022 23:58:08.848 [main] INFO  Report.log - Found Element By : By.id: billing_company
+02-07-2022 23:58:08.926 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:58:08.946 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:58:09.024 [main] INFO  Report.log - Trying to find Element By : By.id: billing_email
+02-07-2022 23:58:09.037 [main] INFO  Report.log - Found Element By : By.id: billing_email
+02-07-2022 23:58:09.241 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:58:09.276 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:58:09.392 [main] INFO  Report.log - Trying to find Element By : By.id: billing_phone
+02-07-2022 23:58:09.403 [main] INFO  Report.log - Found Element By : By.id: billing_phone
+02-07-2022 23:58:09.478 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:58:09.495 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:58:09.515 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:58:09.534 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:58:09.631 [main] INFO  Report.log - Trying to find Element By : By.id: billing_address_1
+02-07-2022 23:58:09.642 [main] INFO  Report.log - Found Element By : By.id: billing_address_1
+02-07-2022 23:58:09.755 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:58:09.770 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:58:09.786 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:58:09.797 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:58:09.858 [main] INFO  Report.log - Trying to find Element By : By.id: billing_city
+02-07-2022 23:58:09.875 [main] INFO  Report.log - Found Element By : By.id: billing_city
+02-07-2022 23:58:09.984 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:58:10.000 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='s2id_billing_state']
+02-07-2022 23:58:10.000 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:58:10.118 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@id='s2id_billing_state']]
+02-07-2022 23:58:12.123 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:58:12.167 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:58:12.234 [main] INFO  Report.log - Trying to find Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:58:12.247 [main] INFO  Report.log - Found Element By : By.xpath: //input[@id='s2id_autogen2_search']
+02-07-2022 23:58:14.368 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:58:14.389 [main] INFO  Report.log - Found Element By : By.xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul
+02-07-2022 23:58:14.414 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:58:14.486 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //div[@class='select2-drop select2-display-none select2-with-searchbox select2-drop-active']//ul]
+02-07-2022 23:58:16.493 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:58:16.533 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:58:16.612 [main] INFO  Report.log - Trying to find Element By : By.id: billing_postcode
+02-07-2022 23:58:16.623 [main] INFO  Report.log - Found Element By : By.id: billing_postcode
+02-07-2022 23:58:16.712 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.728 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.728 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.738 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.738 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.750 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.766 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.778 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.778 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.787 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li//label
+02-07-2022 23:58:16.802 [main] INFO  Report.log - Trying to find Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:58:16.818 [main] INFO  Report.log - Found Element By : By.xpath: //div[@id='payment']//ul//li[2]//label
+02-07-2022 23:58:16.979 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:58:17.003 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //div[@class='form-row place-order']//input[1]
+02-07-2022 23:58:20.186 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:58:20.656 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:58:24.879 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:58:24.895 [main] INFO  Report.log - Found Element By : By.xpath: //a[text()='Logout']
+02-07-2022 23:58:24.895 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:58:26.982 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //a[text()='Logout']]
+02-07-2022 23:58:26.982 [main] INFO  Report.log - Trying to find Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:58:27.092 [main] INFO  Report.log - Found Element By : By.xpath: //ul[@id='main-nav']//li[1]
+02-07-2022 23:58:27.092 [main] INFO  Report.log - Trying to click on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:58:28.146 [main] INFO  Report.log - Clicked on: [[ChromeDriver: chrome on WINDOWS (89ba104d8ea31cd35d0cac29cba6b66e)] -> xpath: //ul[@id='main-nav']//li[1]]
+02-07-2022 23:58:31.525 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:58:31.554 [Forwarding actions on session 89ba104d8ea31cd35d0cac29cba6b66e to remote] INFO  Report.log - Found Element By : By.xpath: //a[text()='My Account']
+02-07-2022 23:58:36.771 [main] INFO  Report.log - Trying to find Element By : By.xpath: //a[text()='Logout']
